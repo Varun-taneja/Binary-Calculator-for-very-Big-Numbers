@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1604227662 source:d:\sem iii\dsa1\my calc dsa proj\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1603614202 d:\sem iii\dsa1\my calc dsa proj\list.h
+
+1604226891 source:d:\sem iii\dsa1\my calc dsa proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1604227662 source:d:\sem iii\dsa1\my calc dsa proj\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+	"list.h"
+	"functions.h"
+
+1604227433 d:\sem iii\dsa1\my calc dsa proj\functions.h
+
+1604226983 source:d:\sem iii\dsa1\my calc dsa proj\infix.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stack.h"
+	"functions.h"
+	<limits.h>
+
+1604227433 d:\sem iii\dsa1\my calc dsa proj\stack.h
+	"list.h"
+
+1603614577 source:d:\sem iii\dsa1\my calc dsa proj\stack.c
+	<stdlib.h>
+	"stack.h"
+
+1604266721 source:d:\my calc dsa proj\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+	"list.h"
+
+1604692600 d:\my calc dsa proj\list.h
+
+1604248243 d:\my calc dsa proj\functions.h
+
+1604665279 source:d:\my calc dsa proj\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1604828962 source:d:\my calc dsa proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1604266705 source:d:\my calc dsa proj\stack.c
+
+1604248243 d:\my calc dsa proj\stack.h
+	"list.h"
+
+1604340297 source:d:\my calc dsa proj\list_stack.c
+	<stdio.h>
+	<stdlib.h>
+	"l_s_o.h"
+
+1604340571 d:\my calc dsa proj\l_s_o.h
+
+1604829772 source:d:\my calc dsa proj\infix.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+	"token.h"
+
+1604695163 source:d:\my calc dsa proj\operations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+	"operations.h"
+
+1604686495 d:\my calc dsa proj\operations.h
+	"stack_num_ch.h"
+
+1604659464 source:d:\my calc dsa proj\stack_num_ch.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_num_ch.h"
+
+1604656793 d:\my calc dsa proj\stack_num_ch.h
+	"list.h"
+
+1604665342 d:\my calc dsa proj\token.h
+	"operations.h"
+
+1604666905 source:d:\my calc dsa proj\token.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+	"token.h"
+
